@@ -12,7 +12,7 @@ $ make
 ```
 To run the demo with example C file, type:
 ```
-$ ./cformat test/c/example1.c
+$ ./cformat test/example1.c
 ```
 
 ## Use the library by your own
